@@ -1,0 +1,9 @@
+Si lo necesitas en formato simple para copiar y pegar en GitHub o en una plataforma de evaluación:
+
+1. B. Un entorno que permite ejecutar JavaScript en el servidor
+
+2. B. Inicializa un proyecto Node.js creando el archivo package.json
+
+3. B. Un framework para construir servidores y APIs en Node.js
+
+4. B. Define cómo responde el servidor cuando un usuario accede a una URL
