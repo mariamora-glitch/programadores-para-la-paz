@@ -1,0 +1,5 @@
+Las APIs pueden ayudar a que las comunidades compartan información de manera más organizada porque permiten la comunicación entre diferentes sistemas. A través de ellas, los usuarios pueden enviar reportes, alertas o mensajes que se almacenan y procesan de forma estructurada. Esto facilita que la información llegue rápidamente a las personas responsables.
+
+Además, las APIs ayudan a centralizar los datos en un solo sistema, evitando la pérdida de información o la duplicación de mensajes. También permiten automatizar procesos, como notificaciones o registros de incidencias.
+
+En una comunidad, esto es útil para mejorar la comunicación, responder más rápido a problemas y mantener un registro claro de lo que ocurre. De esta forma, se fortalece la participación y la organización comunitaria.
