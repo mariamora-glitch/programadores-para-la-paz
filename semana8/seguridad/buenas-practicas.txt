@@ -1,0 +1,5 @@
+1. Proteger las contraseñas.
+
+2. No compartir credenciales con otras personas.
+
+3. Mantener el software actualizado para corregir vulnerabilidades.
