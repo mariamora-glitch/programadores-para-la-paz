@@ -1,0 +1,1 @@
+Al enviar una petición POST a la ruta /reportes con un reporte ciudadano, el servidor guarda la información en el arreglo llamado reportes. Cuando se consulta la ruta GET /reportes, el servidor devuelve la lista de reportes registrados en formato JSON. Si solo se ha registrado un reporte, la respuesta mostrará un único elemento dentro del arreglo.
