@@ -1,0 +1,13 @@
+semana 10 - preguntas
+
+pregunta 1:
+una lista priorizada de tareas o funcionalidades por desarrollar.
+
+pregunta 2:
+una forma breve de expresar qué necesita un usuario y para qué lo necesita.
+
+pregunta 3:
+automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+
+pregunta 4:
+como canal de coordinación, convocatoria y notificación comunitaria.
