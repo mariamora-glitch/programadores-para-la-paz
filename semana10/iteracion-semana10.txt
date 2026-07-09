@@ -1,0 +1,16 @@
+¿qué 2 tareas del backlog harías primero?
+
+1. como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. como coordinador quiero recibir una alerta en telegram para revisar un nuevo reporte.
+
+¿por qué son las más importantes?
+
+porque permiten registrar la información y notificar rápidamente a los responsables para iniciar el seguimiento del caso.
+
+¿qué significa para ti que una tarea esté terminada?
+
+una tarea está terminada cuando:
+
+1. funciona correctamente.
+2. fue probada y verificada.
+3. quedó registrada y publicada en git.
