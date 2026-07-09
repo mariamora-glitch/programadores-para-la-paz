@@ -1,0 +1,9 @@
+1. como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+
+2. como coordinador quiero recibir una alerta en telegram para revisar un nuevo reporte.
+
+3. como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+4. como ciudadano quiero consultar el estado de un reporte realizado.
+
+5. como coordinador quiero generar un resumen semanal de incidencias registradas.
